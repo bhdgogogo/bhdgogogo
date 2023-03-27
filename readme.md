@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<h2 height="200px" align="center">kif <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+<h2 height="200px" align="center">Seb <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 </p>
 
 
@@ -36,11 +36,10 @@
 
 - 2022-to date        Daoyi (Changsha) Information Technology Co., Ltd.            Front-end intern
 
-myBlog：<a href="https://www.kifroom.icu/">kifroom</a>
+myBlog：<a href="https://bhdgogogo.github.io//">blog</a>
 
-- 👨‍💻 XTU-Network engineering
-- :email: kif101001000@163.com
-- 💬 wecat：rm-rf_kif
+- :email: 1245874479@qq.com
+- 💬 wechat：MydarlingMyblood-
 - :orange_book: Focusing on Vue & Web
 - :hammer: Programming enthusiast
 - :ram: Magic lover
@@ -71,13 +70,9 @@ Other        1 hr 26 mins    █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
  <div align="left">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/46062972/177761749-da9d5297-87ac-4c30-b069-16bc685a7e80.png" width="150"> 
-        <span>&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="150">
       </a>
     </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wkif)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhdgogogo)](https://github.com/ryo-ma/github-profile-trophy)
