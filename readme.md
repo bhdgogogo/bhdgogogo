@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
-  <img src="https://img.shields.io/badge/-Django-2b6dbf?style=flat&logo=django&logoColor=white">
 </div>
 <p></p>
 <div align="center">
@@ -24,7 +23,6 @@
    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
-
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
@@ -32,18 +30,15 @@
 
 
 
-# Work experience（Half a year internship experience）
+# My introduction
 
-- 2022-to date        Daoyi (Changsha) Information Technology Co., Ltd.            Front-end intern
-
-myBlog：<a href="https://bhdgogogo.github.io//">blog</a>
+- myBlog：<a href="https://bhdgogogo.github.io//">blog</a>
 
 - :email: 1245874479@qq.com
 - 💬 wechat：MydarlingMyblood-
 - :orange_book: Focusing on Vue & Web
 - :hammer: Programming enthusiast
-- :ram: Magic lover
-- :meat_on_bone: Meat lover
+- :basketball: I like all kinds of balls
 
 
 
