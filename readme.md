@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-2b6dbf?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vite-2b6dbf?style=flat&logo=Vite&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
@@ -24,21 +24,20 @@
    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 <br />
-
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif?raw=true" width="300"/>
 
 
 
 
 # My introduction
 
-- myBlog：<a href="https://bhdgogogo.github.io//">blog</a>
+- myBlog：<a href="https://bhdgogogo.github.io/">blog</a>
 
 - :email: 1245874479@qq.com
 - 💬 wechat：MydarlingMyblood-
 - :orange_book: Focusing on Vue & Web
 - :hammer: Programming enthusiast
-- :basketball: I like all kinds of balls
+- :basketball: **I like all kinds of balls**
 
 
 
